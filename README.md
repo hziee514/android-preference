@@ -12,6 +12,25 @@
 
 # Usage
 
+## Compile dependency
+
+- gradle
+
+```
+compile 'cn.wrh.android:easy-preference:1.0.0'
+```
+
+- maven
+
+```
+<dependency>
+  <groupId>cn.wrh.android</groupId>
+  <artifactId>easy-preference</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
+
 ## Define Model
 
 ```
