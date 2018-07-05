@@ -1,8 +1,8 @@
 apply plugin: 'com.jfrog.bintray'
 apply plugin: 'com.github.dcendents.android-maven'
 
-def siteUrl = "https://github.com/hziee514/android-storage.git"
-def gitUrl = "https://github.com/hziee514/android-storage.git"
+def siteUrl = "https://github.com/hziee514/android-preference.git"
+def gitUrl = "https://github.com/hziee514/android-preference.git"
 
 Properties properties = new Properties()
 properties.load(project.rootProject.file('local.properties').newDataInputStream())
